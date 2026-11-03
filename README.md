@@ -35,7 +35,7 @@ This is the first official release of Zulia.
 ## Install
 
 1. Open the [latest release](../../releases/latest).
-2. Under **Assets**, download `Zulia-1.0.0-setup.exe`.
+2. Under **Assets**, download the `.exe` file (`Zulia-…-setup.exe`).
 3. Run it and accept the administrator prompt.
 
 Zulia requires Windows (64-bit) and updates itself after that.
@@ -67,7 +67,7 @@ Esta é a primeira versão oficial do Zulia, o seu aplicativo para **BNS NEO**.
 ### Como instalar
 
 1. Abra a [versão mais recente](../../releases/latest).
-2. Em **Assets**, baixe `Zulia-1.0.0-setup.exe`.
+2. Em **Assets**, baixe o arquivo `.exe` (`Zulia-…-setup.exe`).
 3. Execute e aceite o pedido de administrador.
 
 O Zulia precisa do Windows (64 bits) e depois se atualiza sozinho.
