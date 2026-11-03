@@ -13,6 +13,8 @@
   <a href="../../releases/latest"><strong>⬇ Download Zulia 1.0</strong></a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/28zWmHQcTD">Discord</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.xsolbe.com">xsolbe</a>
 </p>
 
 ---
